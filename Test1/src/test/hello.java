@@ -6,12 +6,12 @@ public class hello {
 
 	public static void main(String[] args) {
 		
-		List<Integer> arr = new ArrayList<Integer>(4);       
-        arr.add(1);
-        arr.add(2);
-        arr.add(3);
-        arr.add(4);
-        System.out.println(arr.contains(4));
+//		List<Integer> arr = new ArrayList<Integer>(4);       
+//        arr.add(1);
+//        arr.add(2);
+//        arr.add(3);
+//        arr.add(4);
+//        System.out.println(arr.contains(4));
         
         ArrayList<Integer> a = new ArrayList<Integer>(5);
         int[]num=new int[10];
